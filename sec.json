@@ -1,6 +1,18 @@
 {
-  "GL": {"status": "Safe", "description": "All good for GL region"},
-  "KR": {"status": "Unsafe", "description": "Some checks failed in KR"},
-  "VN": {"status": "Safe", "description": "Safe in VN region"},
-  "TW": {"status": "Safe", "description": "Safe in TW region"}
+  "GL": {
+    "status": "true",
+    "description": "Global server is online and secure"
+  },
+  "KR": {
+    "status": "false",
+    "description": "Korea server maintenance ongoing"
+  },
+  "VN": {
+    "status": "true",
+    "description": "Vietnam server is stable"
+  },
+  "TW": {
+    "status": "false",
+    "description": "Taiwan server has issues, do not login"
+  }
 }
