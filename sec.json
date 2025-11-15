@@ -1,17 +1,6 @@
 {
-  "GL": {
-    "status": true,
-    "desc": "امان لكن العب سيف"
-  },
-  "KR": {
-    "status": false,
-    "desc": "بان انتظر التحديث"
-  },
-  "VN": {
-    "status": true,
-    "desc": "امان فقط التزم باللعب السيف"
-  },
-  "TW": {
-    "status": false,
-    "desc": "بان أنتظر تحديث"
-  }}
+  "GL": {"status": "Safe", "description": "All good for GL region"},
+  "KR": {"status": "Unsafe", "description": "Some checks failed in KR"},
+  "VN": {"status": "Safe", "description": "Safe in VN region"},
+  "TW": {"status": "Safe", "description": "Safe in TW region"}
+}
