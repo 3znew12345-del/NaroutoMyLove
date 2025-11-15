@@ -8,11 +8,11 @@
     "description": "Korea server maintenance ongoing"
   },
   "VN": {
-    "status": "true",
-    "description": "Vietnam server is stable"
+    "status": "false",
+    "description": "يوجد "حظر" انتظر تحديث"
   },
   "TW": {
     "status": "false",
-    "description": "Taiwan server has issues, do not login"
+    "description": "يوجد حظر حاليا"
   }
 }
