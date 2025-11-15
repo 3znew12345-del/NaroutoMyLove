@@ -1,5 +1,5 @@
 {
-  "BulletCheck": false,
-  "SmallCro": false,
+  "BulletCheck": true,
+  "SmallCro": true,
   "maintenance": false
 }
